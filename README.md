@@ -1,9 +1,8 @@
 # Project-Course-SUPSI
 ## Human-Centric Integration of Extended Reality Technologies in Industry 5.0: A Comprehensive Review for Manufacturing
-[PDF](Report/Literature%20Review_Human-Centric%20Integration%20of%20Extended%20Reality%20Technologies%20in%20Industry%205.0.pdf)
-
+[PDF](https://github.com/Avalon-S/Project-Course-SUPSI/blob/master/Report/Literature_Review_Human-Centric_Integration_of_Extended_Reality_Technologies_in_Industry_5.0.pdf)
 ## Augmented Reality-Driven Robotic Arm Control for Industrial Automation
-[PDF](Report/Project%20Report_Augmented%20Reality%20Driven%20Robotic%20Arm%20Control%20for%20Industrial%20Automation.pdf)
+[PDF](https://github.com/Avalon-S/Project-Course-SUPSI/blob/master/Report/Project%20Report_Augmented%20Reality-Driven%20Robotic%20Arm%20Control%20for%20Industrial%20Automation.pdf)
 ### Motivation
 1)	In industrial manufacturing, where a wide variety of products are produced, traditional segmentation methods often require separate model training for each product or part. Applying these methods to complex industrial processes is challenging, as it is not feasible to collect data and train specific models for each operational process, which would be resource-intensive. **Can this project achieve its task without using any datasets specifically tailored to the scene?**
 2)	Industrial environments often involve complex interaction tasks. **Can an AR-based system provide a more intuitive, straightforward, and "what-you-see-is-what-you-get" interactive experience?**
