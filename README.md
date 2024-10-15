@@ -31,7 +31,7 @@
 - **Operating System**: Ubuntu 22.04
 - **CPU**: Intel(R) Xeon(R) Platinum 8255C
 - **GPU**: NVIDIA RTX 2080 Ti (12 GB)
-- **Memory**: 43GB
+- **Memory**: 43 GB
 - **Python**: `3.12`
 - **Key Dependencies**:
   - **Pytorch**: `2.3+cu121`
@@ -40,7 +40,7 @@
 #### FastSAM
 - **Operating System**: Windows 11 Home
 - **CPU**:   Intel(R)  Core(TM) i7-14700HX @2.1GHZ
-- **GPU**:   NVIDIA  GeForce RTX 4070 Laptop GPU 
+- **GPU**:   NVIDIA  GeForce RTX 4070 Laptop GPU (8 GB)
 - **Memory**: 32 GB
 - **FastSAM**: Install from [FastSAM Repository](https://github.com/CASIA-IVA-Lab/FastSAM), Model Weight: [FastSAM-x](https://drive.google.com/file/d/1m1sjY4ihXBU1fZXdQ-Xdj-mDltW-2Rqv/view)
 - **Python**: `3.9.19`
