@@ -57,4 +57,4 @@
 - **Mixed Reality OpenXR Plugin**:   `1.11.1`
 - **MRTK Graphic Tools**: `0.7.1`
 ## Acknowledgements
-This project was made possible thanks to the open-source **FastSAM** model for image segmentation. I appreciate the contributions of the developers at [CASIA-IVA-Lab](https://github.com/CASIA-IVA-Lab) and other open-source communities for their efforts in advancing  technologies.
+This project was made possible thanks to the open-source [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) model for zero-shot image segmentation. I appreciate the contributions of the developers at [CASIA-IVA-Lab](https://github.com/CASIA-IVA-Lab) and other open-source communities for their efforts in advancing  technologies.
